@@ -1,5 +1,5 @@
 # We are **Shadowbin**
 
-We are building the next **encrypted file-sharing service.**
+We are building an encrypted, privacy focused file sharing service.
 
 <https://shadowb.in>
