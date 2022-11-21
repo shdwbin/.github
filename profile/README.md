@@ -1,4 +1,4 @@
-![Banner](shadowbin_banner.png)
+![Banner](profile/shadowbin_banner.png)
 
 Shadowbin are working on building the next encrypted, **privacy focused** file sharing service.
 
